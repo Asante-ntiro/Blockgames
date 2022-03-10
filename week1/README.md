@@ -1,3 +1,3 @@
 A simple “Hello World” contract with a constructor, two functions, and a state variable that has been deployed to a Testnet (Rinkeby).
 
-Contract Address: 0x50a905cb810f08b42f5b65acb8a66369a0f45d37
+Contract Address: https://rinkeby.etherscan.io/tx/0x7202e8d87fbf5a5298a7f228620d7601820c997f281f7e89fa8211a47c98627e
